@@ -1,1 +1,1 @@
-# AI-WeatherWise-
+# AI-WeatherWise
